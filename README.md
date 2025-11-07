@@ -3,3 +3,5 @@
 Our project is a timer controlled fan that uses voice recognition to set the timer for 10 seconds, 30 seconds, and 1 minute. We are going to use a button and led circuit to simulate a person walking in the room which we'll eventually change to a motion sensor and added temperature function.
 
 Items: Arduino kit, Google Text to Speech API
+
+Project Demo 11-05-2025 link: https://youtu.be/H8g7VmLbjFE
