@@ -16,3 +16,5 @@ DHT sensor library by Adafruit
 
 
 Project Demo 11-05-2025 link: https://youtu.be/H8g7VmLbjFE
+
+The parts I worked on individually were the button and LED circuit, the circuit code, and the integration of that code into the full project. 
