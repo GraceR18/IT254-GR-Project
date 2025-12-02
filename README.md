@@ -5,13 +5,13 @@ Our project is a timer controlled fan that uses voice recognition to set the tim
 Items: Arduino kit, Google Text to Speech API
 
 AI Installs:
-pip install GoogleAudio
+pip install GoogleAudio,
 pip install SpeechRecognition
 
 Arudino Installs:
-Adafruit Unified Sensor by Adafruit
-DFRobot_DHT11 by DFRobot
-DHT Sensors Non-Blocking by Toan Nguyen
+Adafruit Unified Sensor by Adafruit,
+DFRobot_DHT11 by DFRobot,
+DHT Sensors Non-Blocking by Toan Nguyen,
 DHT sensor library by Adafruit
 
 
